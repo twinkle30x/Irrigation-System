@@ -8,4 +8,4 @@ the system starts zone 1 for a set period of time, then stops for a programmable
 A short video with the LCD showing the values read from the sensors and decide which zone is ON or OFF:
 https://youtu.be/vOQmYX72cLw
 
-I also added some photos with the diagram, hardware diagram and how the system looked inside and outside. 
+I also added some photos with the diagram, hardware design and how the system looked inside and outside. 
